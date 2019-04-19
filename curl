@@ -1,0 +1,111 @@
+{
+	
+"firstName":"dfdsfsdsdf",
+"lastName":"cdsfsd",
+	
+"channelPartnerId":1,
+	
+"registrationDate":"2018-09-09",
+
+"policyBazaarCode":"dsdhk",
+	 
+"aadharCard":"888888888888",
+	 
+"pancard":"ABCDEG67",
+	 
+	 
+"healthReferralAddon":10.0,
+
+"status":"ACTIVE",
+
+"parentPartnerId":0,
+
+"referral":10.0,
+      
+"carReferral":10.0,
+
+"healthReferral":10.0,
+
+"lifeReferral":10.0,
+
+"travelReferral":10.0,
+
+"mutualFundReferral":10.0,
+
+"corporateFDReferral":10.0,
+
+"portfolioManagementServiceReferral":10.0,
+
+"unlistedCompanyReferral":10.0,
+
+"dMatReferral":10.0,
+
+"savingAccountReferral":10.0,
+
+"carBikeInsuranceReferral":10.0,
+
+"homeInsuranceReferral":10.0,
+
+"internationalDLReferral":10.0,
+
+"creditCardReferral":10.0,
+
+"equityReferral":10.0,
+
+"personalLoanReferral":10.0,
+
+"homeLoanReferral":10.0,
+
+"carLoanReferral":10.0,
+
+"businessLoanReferral":10.0,
+
+"loanAgainstPropertyReferral":10.0,
+
+"loanAgainstSecurityReferral":10.0,
+
+"overdraftReferral":10.0,
+
+"ccLimitReferral":"10.0",
+    
+"corporateReferral":10.0,
+
+"groupHealthInsuranceReferral":10.0,
+
+"groupTermInsuranceReferral":10.0,
+
+"groupPersonalAccidentInsuranceReferral":10.0,
+
+"marineInsuranceReferral":10.0,
+
+"fireInsuranceReferral":10.0,
+
+"shopOwnerInsuranceReferral":10.0,
+
+"constructionAllRiskReferral":10.0,
+
+"commercialVehicleInsurance":10.0,
+
+"bankDetails":{
+	"id":"1",
+	"bankName":"dsssdsdad",
+	"accountNumber":"887767666",
+	"accountHolderName":"nnhhhh",
+	"ifscCode":"hh65ggh",
+	"micrCode":"uhbgg665",
+	"upi":"hggcv76"
+},
+"address":{
+	
+	"country":"india",
+	"state":"haryna",
+	"city":"gurgaon",
+	"address1":"sdsfsdfsd",
+	"address2":"dsdfsdfsdf",
+	"landmark":"sadsfsdfds",
+	"pincode":12333
+	
+}
+
+
+}
