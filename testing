@@ -1,0 +1,48 @@
+ id 
+| aadhar_card | 
+address | 
+business_loan_referral |
+ car_bike_insurance_referral | 
+car_loan_referral | 
+car_referral |
+ cc_limit_referral |
+ commercial_vehicle_insurance | 
+construction_all_risk_referral |
+ corporate_fd_referral |
+ corporate_referral |
+ credit_card_referral |
+ d_mat_referral |
+ equity_referral |
+ fire_insurance_referral |
+ first_name | 
+group_health_insurance_referral |
+ group_personal_accident_insurance_referral |
+ group_term_insurance_referral | 
+health_referral |
+ health_referral_addon |
+ home_insurance_referral | 
+home_loan_referral | 
+internationaldl_referral |
+ last_name 
+| life_referral 
+| loan_against_property_referral | 
+loan_against_security_referral | 
+marine_insurance_referral |
+ middle_name | 
+mutual_fund_referral | 
+overdraft_referral | 
+pancard | 
+parent_partner_id | 
+personal_loan_referral
+ | policy_bazaar_code |
+ portfolio_management_service_referral | 
+referral |
+ registration_date | 
+saving_account_referral | 
+shop_owner_insurance_referral |
+ status | 
+travel_referral | 
+unlisted_company_referral | 
+bank_details_id 
+| person_id | 
+channel_partner_type
